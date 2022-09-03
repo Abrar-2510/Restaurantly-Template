@@ -1,4 +1,8 @@
-# Restaurantly-Template (https://abrar-2510.github.io/Restaurantly-Template/)
+
+<div align="center">
+  <h1 ><a href="https://abrar-2510.github.io/Restaurantly-Template/"> Restaurantly-Template 🍴 </a></h1>
+ 
+
 
 ## Table of content
 <ul>
