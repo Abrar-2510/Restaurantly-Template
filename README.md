@@ -1,4 +1,4 @@
-# Restaurantly-Template
+# Restaurantly-Template (https://abrar-2510.github.io/Restaurantly-Template/)
 
 ## Table of content
 <ul>
